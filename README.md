@@ -1,4 +1,3 @@
-```markdown
 # 🎮 Unity Game Optimization Guide
 
 Khi phát triển game bằng Unity, tối ưu hóa (optimize) là bước quan trọng để đảm bảo **hiệu suất**, **trải nghiệm người chơi**, và **tính tương thích đa nền tảng**.  
@@ -95,4 +94,3 @@ Dưới đây là checklist các mảng cần tối ưu, kèm theo gợi ý th�
 
 ✨ Tối ưu hóa không phải là một bước cuối cùng, mà là **quá trình liên tục** trong suốt vòng đời phát triển game.  
 Hãy profile thường xuyên, phát hiện bottleneck và xử lý kịp thời.
-```
